@@ -19,7 +19,6 @@ Used power outputs for compass
 * GND black > - bus bar > GND
 * A5 yellow to SCL
 * A4 green to SDA
-
 * North is on the "X-axis"
 
 Used power outputs for GPS
