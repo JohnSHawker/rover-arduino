@@ -23,4 +23,3 @@ Used power outputs for compass
 
 Used power outputs for GPS
 --------------------------
-did this .ssh test work?
