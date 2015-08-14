@@ -12,6 +12,9 @@ Used power outputs for relays
 * 10 yellow > relay2
 * 9 green > relay1
 
+Relay outputs to motors
+-----------------------
+
 Used power outputs for compass
 ------------------------------
 

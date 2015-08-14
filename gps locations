@@ -1,0 +1,9 @@
+
+//parking lot
+40.312983 , -111.663855 //south east corner
+40.313255 , -111.663879 //north east corner
+40.313258 , -111.664623 //north west corner
+40.312964 , -111.664624 //south west corner
+
+//driveway
+40.315088 , -111.660598 //front of driveway
